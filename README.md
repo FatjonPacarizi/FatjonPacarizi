@@ -27,5 +27,5 @@ Welcome to my GitHub profile!
 
 ## 🤝 Let's Connect
 
-Feel free to connect with me or check out some of my pinned repositories!
+Feel free to connect with me!
 
