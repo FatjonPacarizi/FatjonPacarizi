@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 
 - 🔭 I’m currently working on exciting projects involving web development and software engineering.
 - 🌱 I’m always learning and improving my skills.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fatjon-pa%C3%A7arizi-b449a2210/) | [Email](mailto:fatjonpaqarizi6@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/fatjon-pa%C3%A7arizi-b449a2210/) | [Email](mailto:fatjonpacarizi1@gmail.com)
 
 ---
 
