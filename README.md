@@ -8,12 +8,6 @@ Welcome to my GitHub profile!
 
 ---
 
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FatjonPacarizi&layout=compact&theme=dark)
-
----
-
 ## 🛠️ Recent Contributions
 
 <!-- GitHub Activity Graph (optional) -->
